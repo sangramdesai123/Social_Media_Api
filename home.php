@@ -42,7 +42,7 @@
       <div class="jumbotron">
         <h1>Google + API</h1>
         <p class="lead">This example is a quick exercise to illustrate how the Google + API use.</p>
-          <a href="login.php" class="btn btn-lg btn-danger">Google +</a>
+          <a href="google/login.php" class="btn btn-lg btn-danger">Google +</a>
       </div>
 
       <div class="jumbotron">

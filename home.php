@@ -46,6 +46,12 @@
       </div>
 
       <div class="jumbotron">
+        <h1>LinkedIn API</h1>
+        <p class="lead">This example is a quick exercise to illustrate how the LinkedIn API use.</p>
+        <a href="./linked/index.php" class="btn btn-lg btn-primary">LinkedIn </a>
+      </div>
+
+      <div class="jumbotron">
         <h1>Instagram API</h1>
         <p class="lead">This example is a quick exercise to illustrate how SMS API use.</p>
         <form action="sms.php" method="GET">

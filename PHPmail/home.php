@@ -12,7 +12,7 @@
 	  <input type="text" name="email"><br><br>
 	  <label>Passw</label>
 	  <input type="password" name="pass"><br><br>
-	  <div class="g-recaptcha" data-sitekey="6LcflIYUAAAAAD9Ypzk_GS3Blxki0e42CMDSXHDi"></div><br>
+	  <div class="g-recaptcha" data-sitekey="**************key***"></div><br>
 	  <input type="submit" name="register" Value="register">
 	 </form>
 </body>

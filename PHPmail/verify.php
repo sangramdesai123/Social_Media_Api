@@ -10,7 +10,7 @@ $code=substr(md5(mt_rand()),0,15);
 echo "mailer code ".$code."<br>";
  if(isset($_POST['g-recaptcha-response'])&& $_POST['g-recaptcha-response']){
         var_dump($_POST);
-        $secret = "6LcflIYUAAAAAEolXs9e0JsXkE2QNJwDv0ZvwoB9";
+        $secret = "xxxxxxxxxxxxx";//google captcha sectre
         $ip = $_SERVER['REMOTE_ADDR'];
         $captcha = $_POST['g-recaptcha-response'];
         $rsp  = file_get_contents("https://www.google.com/recaptcha/api/siteverify?secret=$secret&response=$captcha&remoteip$ip");
@@ -82,13 +82,13 @@ else{
 	    $mail->isSMTP();                                      // Set mailer to use SMTP
 	    $mail->Host = 'smtp.gmail.com';  // Specify main and backup SMTP servers
 	    $mail->SMTPAuth = true;                               // Enable SMTP authentication
-	    $mail->Username = 'sangramdesai1999@gmail.com';                 // SMTP username
-	    $mail->Password = '@#sang123';                           // SMTP password
+	    $mail->Username = 'user@gmail.com';                 // SMTP username
+	    $mail->Password = '******';                           // SMTP password
 	    $mail->SMTPSecure = 'tls';                            // Enable TLS encryption, `ssl` also accepted
 	    $mail->Port = 587;                                    // TCP port to connect to
 
 	    //Recipients
-	    $mail->setFrom('sangramdesai1999@gmail.com', 'Sangram');
+	    $mail->setFrom('user@gmail.com', 'Sangram');
 	    $mail->addAddress($email, $name);     // Add a recipient
 	   
 

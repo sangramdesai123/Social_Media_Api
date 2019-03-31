@@ -16,7 +16,7 @@ What things you need to install the software and how to install them
  </code></pre>
  
 ------------------------------------------
-![Home Page ](https://github.com/sangramdesai123/PaymentAndSms/blob/master/img/1.JPG)
+![Home Page ](https://github.com/sangramdesai123/Social_Media_Api/blob/master/1.JPG)
 ------------------------------------------
 
 ### Contributing

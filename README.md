@@ -6,6 +6,7 @@
 2. Login with Google
 3. Login with Instagram
 4. Login with Linkedin
+5. Send the mail using PHP
 ------------------------------------------
 ### Prerequisites
 <pre><code>

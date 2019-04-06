@@ -28,12 +28,12 @@ What things you need to install the software and how to install them
 ------------------------------------------
 ### Note
 
-- This project have  `payment and sms api code`
+- This project have  `login and mail api code`
 
 ------------------------------------------
 
 
-**for gmail using PHPmailer
+#### For gmail using PHPmailer
 
     YouTube Link : https://www.youtube.com/watch?v=DPGfNYkTkJ0
     

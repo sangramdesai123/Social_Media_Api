@@ -2,9 +2,10 @@
 
 ------------------------------------------
 ### Activity:
-1. Payment using PayUMoney api
-2. Payment using InstaMojo api
-3. SMS api 
+1. Login with Facebook
+2. Login with Google
+3. Login with Instagram
+4. Login with Linkedin
 ------------------------------------------
 ### Prerequisites
 <pre><code>

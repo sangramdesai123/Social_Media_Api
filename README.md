@@ -9,13 +9,22 @@
 5. Send the mail using PHP
 ------------------------------------------
 ### Prerequisites
-<pre><code>
-What things you need to install the software and how to install them
 
-**XAMMP** 
+#### What things you need to install the software and how to install them
+
+#### 1. XAMMP 
+
     Link to download: https://www.apachefriends.org/download.html
     
- </code></pre>
+#### 2. Google Account
+
+    Google Sign-In into your website, you must create a client ID
+    
+    https://developers.google.com/identity/sign-in/web/sign-in
+
+
+    
+
  
 ------------------------------------------
 ![Home Page ](https://github.com/sangramdesai123/Social_Media_Api/blob/master/1.JPG)
